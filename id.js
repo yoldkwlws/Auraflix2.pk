@@ -13,7 +13,7 @@ window.HERO_IDS = [
    },
    {
     id:"p21",
-    img:"https://raw.githubusercontent.com/yoldkwlws/Dr-cula/refs/heads/main/Screenshot_20260122_200011_Moviebase.jpg",
+    img:"https://raw.githubusercontent.com/yoldkwlws/Dr-cula/refs/heads/main/Screenshot_20260122_200011_Moviebase(1).jpg",
    },
    {
     id:"p4",
