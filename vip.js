@@ -14,13 +14,13 @@ const VIP_CONFIG = {
             link: "https://direct-link.net/3053707/9vmp7JlZpW15" // Link al acortador o web
         },
         {
-            date: "2025-10-25", // FECHA DEL DÍA 2
-            code: "CODIGO_DIA_2",
+            date: "2026-02-01", // FECHA DEL DÍA 2
+            code: "n2008",
             link: "ENLACE_PARA_CONSEGUIR_CODIGO_2"
         },
         {
-            date: "2025-10-26", // FECHA DEL DÍA 3
-            code: "CODIGO_DIA_3",
+            date: "2026-01-30", // FECHA DEL DÍA 3
+            code: "f2008",
             link: "ENLACE_PARA_CONSEGUIR_CODIGO_3"
         }
     ],
