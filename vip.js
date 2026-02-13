@@ -9,9 +9,9 @@ const VIP_CONFIG = {
     // Formato de fecha: "YYYY-MM-DD" (Año-Mes-Dia)
     days: [
         {
-            date: "2026-01-31", // FECHA DEL DÍA 1
-            code: "A2008", // Código para desbloquear
-            link: "https://direct-link.net/3053707/9vmp7JlZpW15" // Link al acortador o web
+            date: "2026-02-13", // FECHA DEL DÍA 1
+            code: "402", // Código para desbloquear
+            link: "https://lnbz.la/codigo_1" // Link al acortador o web
         },
         {
             date: "2026-02-01", // FECHA DEL DÍA 2
