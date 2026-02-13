@@ -1,6 +1,6 @@
 const AURA_LINKS = {
     // Enlace del Grupo de Telegram (Botón Difusión)
-    telegram: 'https://t.me/Auraflixpeli',
+    telegram: 'https://t.me/Aold9kuraflixpeli',
 
     // Enlace para descargar la App (Botón Compartir App)
     appDownload: 'https://www.mediafire.com/file/gipq3eknebz7lkn/peli49292.apk/file',
