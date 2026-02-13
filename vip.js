@@ -9,7 +9,7 @@ const VIP_CONFIG = {
         {
             date: "2026-02-13", // DÍA 1 (Hoy según sistema)
             code: "402",
-            link: "https://google.com/search?q=codigo_dia_1" 
+            link: "https://link-center.net/2492660/4Ga1cUaFNTBx" 
         },
         {
             date: "2026-02-14", // DÍA 2
