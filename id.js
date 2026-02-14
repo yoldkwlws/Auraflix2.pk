@@ -1,7 +1,7 @@
 window.HERO_IDS = [
    {
    id:"p73",
-    img:"https://raw.githubusercontent.com/Auraflixs/Dr-cula/refs/heads/main/capitulo%203.jpg",
+    img:"https://raw.githubusercontent.com/Auraflixs/Dr-cula/refs/heads/main/Capitulo3.jpg",
    },
    {
    id:"p68",
