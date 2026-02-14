@@ -1,5 +1,5 @@
 // --- CONFIGURACIÓN PRINCIPAL ---
-const VIP_SYSTEM_STATUS = "on"; // "on" = Sistema Activo | "off" = Sistema Apagado (Todo Gratis/Desactivado)
+const VIP_SYSTEM_STATUS = "off"; // "on" = Sistema Activo | "off" = Sistema Apagado (Todo Gratis/Desactivado)
 
 const VIP_CONFIG = {
     tutorialVideo: "https://dropload.pro/e/289c0csjj3bd", 
